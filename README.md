@@ -36,7 +36,7 @@ Developed using **PHP**, **HTML**, **CSS**, **Bootstrap**, and **JavaScript**, t
 
 You can include screenshots for better understanding:
 
-```markdown
+
 ## 📸 Snapshots
 
 ### 🔑 Login Form
